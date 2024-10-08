@@ -8,8 +8,6 @@ This is a simple BitTorrent client implemented in Node.js. The client connects t
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -59,15 +57,6 @@ torrent-client/
 - Establishes TCP connections to peers.
 - Requests and downloads pieces of the file.
 - Assembles the downloaded pieces into a complete file.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or features, feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 ### Notes:
 - Replace `yourusername` in the clone command with your actual GitHub username.
