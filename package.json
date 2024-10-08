@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bencode": "^4.0.0",
+    "bncode": "^0.5.3",
     "crypto": "^1.0.1",
     "dgram": "^1.0.1",
     "net": "^1.0.2"
